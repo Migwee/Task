@@ -1,5 +1,5 @@
 def pow(a,b):
-    answer =  a*a
+    answer =  a*b
     return (answer)
 
 print (pow(4,2))
