@@ -1,6 +1,6 @@
 def bidamas (a) :
-    Answer = a+4
-    Answer = Answer*3
-    Return (Answer)
+    answer = a+4
+    answer = answer*3
+    return (answer)
     
-Print bidmas(4)    
+print bidmas(4)    
